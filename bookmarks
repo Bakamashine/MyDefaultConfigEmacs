@@ -1,0 +1,23 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("\\"
+ (filename . "c:/Users/Security/Desktop/")
+ (front-context-string . "07_09_2024.txt\n ")
+ (rear-context-string . "731 09-10 20:39 ")
+ (position . 215)
+ (last-modified 26356 23714 224024 0))
+("ivan"
+ (filename . "d:/xampp/htdocs/ivan/")
+ (front-context-string . "admin.php\n  drwx")
+ (rear-context-string . "363 2024-09-25  ")
+ (position . 198)
+ (last-modified 26356 10522 606622 0))
+("init.el"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . "(custom-set-vari")
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26356 9095 518172 0))
+)
